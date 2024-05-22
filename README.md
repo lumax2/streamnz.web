@@ -21,6 +21,8 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `npm run build`
 
+### scp -r /Users/chenghao/WebstormProjects/streamnz.com/build root@106.14.182.91:/usr/share/nginx/html
+
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 

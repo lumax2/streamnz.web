@@ -28,6 +28,36 @@
   color: #61dafb;
 }
 
+.nav {
+  background: rgba(51, 51, 51, 0.8);
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.nav a {
+  color: white;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.content {
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+
+.footer {
+  background: rgba(51, 51, 51, 0.9);
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
